@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.11",
     "uniqCompNum": 15,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.11",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -111,7 +111,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://zzackarysanchezz.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -167,7 +167,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1126.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -274,7 +274,7 @@
           },
           "title3": "Forensic Scientist&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "This goal",
+          "caption3": "This goal began when I went on a field trip to a police station &nbsp; and &nbsp;saw the scientis working on a case. &nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -465,7 +465,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
