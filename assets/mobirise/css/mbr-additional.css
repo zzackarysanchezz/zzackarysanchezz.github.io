@@ -490,6 +490,10 @@ h6,
   background-color: #7b7b7b;
   border-color: #7b7b7b;
 }
+#msg-box8-g .mbr-section-title,
+#msg-box8-g p {
+  color: #fff;
+}
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
