@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zackary Sanchez",
-    "currentPage": "Adobe Illustartor.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -108,10 +108,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
+              "src": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://zzackarysanchezz.com",
+              "link": "https://zzackarysanchezz.github.io",
               "title": "",
               "linkInNewWindow": false
             },
@@ -483,7 +483,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -675,7 +675,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://zzackarysanchezz.com",
@@ -865,10 +865,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
+              "src": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://zzackarysanchezz.com",
+              "link": "https://zzackarysanchezz.github.io",
               "title": "",
               "linkInNewWindow": false
             },
@@ -994,10 +994,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x128.png",
+              "src": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://zzackarysanchezz.com",
+              "link": "https://zzackarysanchezz.github.io",
               "title": "",
               "linkInNewWindow": false
             },
