@@ -675,7 +675,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1287.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://zzackarysanchezz.com",
@@ -728,6 +728,46 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flash-logo-2-1-800x640.png",
                 "image": "@PROJECT_PATH@/assets/images/flash-logo-2-1.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zacks-new-album-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1133,7 +1173,7 @@
             "showButtons": true
           },
           "title": "",
-          "text": "<br>Come check out my website",
+          "text": "Zackary Sanchez<br>Come check out my website",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Website</a> "
         }
       ]
