@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zackary Sanchez",
-    "currentPage": "index.html",
+    "currentPage": "fore page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -675,7 +675,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1287.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://zzackarysanchezz.com",
