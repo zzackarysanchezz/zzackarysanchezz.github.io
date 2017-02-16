@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zackary Sanchez",
-    "currentPage": "Gallery.html",
+    "currentPage": "fore page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.11",
     "uniqCompNum": 42,
-    "versionPublish": "3.11",
+    "versionPublish": "3.11.1",
     "path": "file:///E:/website",
     "screenshot": "screenshot.png"
   },
