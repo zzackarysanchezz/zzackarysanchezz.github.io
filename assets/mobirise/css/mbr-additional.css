@@ -483,6 +483,10 @@ h6,
 #msg-box5-5 .btn {
   font-family: 'PT Serif', serif;
 }
+#msg-box8-17 .mbr-section-title,
+#msg-box8-17 p {
+  color: #fff;
+}
 #features7-8 .card-subtitle {
   color: #bcbcbc;
 }

@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 42,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 47,
+    "versionPublish": "3.12.1",
     "path": "file:///E:/website",
     "screenshot": "screenshot.png"
   },
@@ -34,7 +35,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -188,6 +190,40 @@
           "title": "Zackary Sanchez, Biography",
           "text": "I am a 12 year old boy born and raised in miami flordia.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content2-j\" data-toolbar=\"-mbrBtnMove\">Continue Biography</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "features4",
@@ -409,7 +445,8 @@
     "contact.html": {
       "settings": {
         "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 3
       },
       "components": [
         {
@@ -601,7 +638,8 @@
     "Gallery.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 4
       },
       "components": [
         {
@@ -675,7 +713,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mobi-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://zzackarysanchezz.com",
@@ -799,7 +837,8 @@
     "Introduction.html": {
       "settings": {
         "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "Website Maker Description",
+        "order": 5
       },
       "components": [
         {
@@ -928,7 +967,8 @@
     "Adobe Illustartor.html": {
       "settings": {
         "title": "Web Site Generator Title",
-        "meta_descr": "Web Site Generator Description"
+        "meta_descr": "Web Site Generator Description",
+        "order": 6
       },
       "components": [
         {
@@ -1057,7 +1097,8 @@
     "fore page.html": {
       "settings": {
         "title": "Web Site Builder Title",
-        "meta_descr": "Web Site Builder Description"
+        "meta_descr": "Web Site Builder Description",
+        "order": 2
       },
       "components": [
         {
@@ -1175,13 +1216,109 @@
           "title": "",
           "text": "Zackary Sanchez<br>Come check out my website",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Website</a> "
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-19",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/Q6Wm4dZm2Ms?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/name-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/name-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/eye-of-the-tiger-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eye-of-the-tiger-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bat-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bat-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/car-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/car-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1a",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
     "office sutie.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 7
       },
       "components": [
         {
@@ -1310,7 +1447,8 @@
     "credentials.html": {
       "settings": {
         "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
+        "meta_descr": "Site Generator Description",
+        "order": 8
       },
       "components": [
         {
@@ -1439,7 +1577,8 @@
     "refrence.html": {
       "settings": {
         "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 9
       },
       "components": [
         {
