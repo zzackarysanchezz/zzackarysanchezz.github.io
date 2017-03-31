@@ -17,13 +17,15 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 37,
-    "versionPublish": "3.11",
-    "path": "@PROJECT_PATH@"
+    "uniqCompNum": 38,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -167,38 +169,38 @@
           "text": ""
         },
         {
-          "_inherit": "content5",
           "_styles": {
             ".mbr-section-title, p": {
-              "text-align": "right",
               "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-7",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-11",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
           },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>.</p>"
+          "title": "My Story",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=Sv45N32D-Jw\" data-toolbar=\"-mbrBtnMove\">Come and Look At My Story</a>"
         },
         {
           "_tags": [
@@ -328,6 +330,11 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features6-f",
           "_params": {
             "paddingTop": 2,
@@ -435,12 +442,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
