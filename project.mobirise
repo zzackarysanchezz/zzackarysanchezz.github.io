@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zackary Sanchez",
-    "currentPage": "index.html",
+    "currentPage": "Gallery",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -110,7 +110,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/eye-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -802,19 +802,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-6-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -874,7 +875,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
