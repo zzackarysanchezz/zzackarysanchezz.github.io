@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zackary Sanchez",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -260,22 +260,22 @@
             "paddingBottom": "1",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hulk-complete-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hulk-complete-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -284,19 +284,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
