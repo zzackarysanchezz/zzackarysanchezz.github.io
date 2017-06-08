@@ -1933,7 +1933,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Intro#msg-box8-22\" data-toolbar=\"-mbrBtnMove\">Video Clips</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/watch?v=awiuf_f6fuo&amp;t=50s\" data-toolbar=\"-mbrBtnMove\">Video Clips</a>"
         },
         {
           "_tags": [
@@ -1947,40 +1947,6 @@
             "bgColor": "#efefef"
           },
           "text": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-22",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
